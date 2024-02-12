@@ -1,38 +1,24 @@
-**DEPRECATION NOTICE**
+---
+description: >-
+  Manuales - FAQs - Tutoriales - Vídeos // Estimados usuarios de Winmotor,
+  tenemos el placer de ofreceros el Centro de Ayuda en el que se irán ampliando
+  todo tipo de documentos y cuestiones planteadas.
+---
 
-This book used to be the documentation for GitBook and GitBook.com. Now the docs have been split:
+# Centro de Ayuda Winmotor Servicios
 
-- [Help Center](https://help.gitbook.com/) for general knowledge base. Source is [here](https://github.com/GitbookIO/help.gitbook.com).
-- [Toolchain Documentation](https://toolchain.gitbook.com/) for complete documentation of GitBook format and tools. Source is in the [official repository](https://github.com/GitbookIO/gitbook/)
+{% embed url="https://www.winmotor.net" %}
+Enlace a web de Winmotor
+{% endembed %}
 
-----
+**Importante a tener en cuenta:**
 
-# GitBook Documentation
+1.- **Las imágenes pueden ampliarse** con un clic de ratón y reducirse de la misma forma
 
-This book contains the entire documentation for **GitBook** (gitbook.com and format).
+2.- Además del árbol donde pueden desplegar las ramas donde se encuentran las diferentes partes del manual Winmotor V7, **existe un sistema integrado de búsqueda en la parte superior derecha**, que encontrará todo el contenido relacionado con el texto introducido.
 
-### Open Source Format
+3.- **El Centro de Ayuda está en desarrollo continuo y aún es bastante joven**, pero casi diariamente incorporamos nuevos contenidos de todo tipo para ayudaros en el día a día.
 
-The toolchain (GitBook) is a tool for building beautiful books using Git and Markdown. It can generate your book in many formats: **PDF**, **ePub**, **mobi** or as a **website**.
+4.- Como queremos que esta ayuda sea interactiva, **hemos incorporado una encuesta al final de cada apartado mediante 3 caras, mal, suficiente, bien**. Os rogamos nos hagáis llegar vuestras sensaciones para mejorar, así como indicarnos nuevos tutoriales y FAQ (preguntas frecuentes) que queráis que incorporemos al Centro de Ayuda Winmotor.
 
-It is open source, the source code of the tool is available on [GitHub](https://github.com/GitbookIO/gitbook).
-
-Issues and question related to the format and the toolchain should be posted on [GitHub](https://github.com/GitbookIO/gitbook/issues)
-
-### GitBook.com
-
-GitBook.com is the online platform ([www.gitbook.com](https://www.gitbook.com)) to create and host books built using the GitBook format.
-
-### Other documentations
-
-Documentation for developers (API & Plugins) is accessible at [developer.gitbook.com](https://developer.gitbook.com).
-
-Setup guide and documentation for the enterprise version is accessible at [help.enterprise.gitbook.com](http://help.enterprise.gitbook.com).
-
-### Help and Support
-
-We're always happy to help out with your books or any other questions you might have. You can ask a question or signal an issue on the following contact form at [gitbook.com/contact](https://www.gitbook.com/contact).
-
-### Contribute to this documentation
-
-You can contribute to improve this documentation on [GitHub](https://github.com/GitbookIO/documentation) by signaling issues or proposing changes.
+**Haznos saber cómo lo hicimos ;)**
