@@ -111,3 +111,4 @@
 * [Fusionar entidades](tutoriales/fusionar-entidades.md)
 * [Riesgo de entidades](tutoriales/riesgo-de-entidades.md)
 * [Predefinición de asientos analíticos en las plantillas de asientos](tutoriales/predefinicion-de-asientos-analiticos-en-las-plantillas-de-asientos.md)
+* [Revisión del Balance de Situación](tutoriales/revision-del-balance-de-situacion.md)
